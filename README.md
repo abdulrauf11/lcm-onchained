@@ -20,4 +20,6 @@ npx hardhat --network rinkeby run scripts/deploy.js
 ```
 
 ## Tutorial
-Read the full tutorial here: 
+Read the full tutorial here:
+1. Dev.to - https://dev.to/lilcoderman/lets-mint-an-on-chain-nft-mfers-2i27
+2. Hashnode - https://lilcoderman.hashnode.dev/lets-mint-an-on-chain-nft-mfers
